@@ -1,2 +1,2 @@
 # Hello-World
-Your first program.
+Your first program from your first programming language.
