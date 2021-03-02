@@ -2,7 +2,7 @@ using System;
 
 namespace HelloWorld {
 	class Hello {
-	static void main(string[] args) {
+	static void Main(string[] args) {
 		System.Console.writeLine("Hello, World!");
 		}
 	}
