@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main(){
-    std::cout << "Hello, World." << std::endl;
+    cout << "Hello, World." << endl; // standard output stream
     
-    return 0;
+    return 0; // Exit Status
 }
