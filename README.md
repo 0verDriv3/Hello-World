@@ -1,5 +1,5 @@
 # HelloWorld
-**Your first program from your first programming language.**
+**Your first program for your first programming language.**
 ```
 I'm practicing github.
 ```
